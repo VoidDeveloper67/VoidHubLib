@@ -17,7 +17,7 @@ The library has no external dependencies. Everything — chrome, animations, sou
 ## Quick Start
 
 ```lua
-local VHL = loadstring(game:HttpGet("YOUR_RAW_URL"))()
+local VHL = loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidDeveloper67/VoidHubLib/refs/heads/main/main.lua"))()
 
 -- 1. Create a window
 local win = VHL.Window({
