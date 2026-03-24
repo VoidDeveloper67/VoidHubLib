@@ -441,7 +441,7 @@ VHL.Sfx("close")  -- window close / minimise
 ## Full Example
 
 ```lua
-local VHL = loadstring(game:HttpGet("YOUR_RAW_URL"))()
+local VHL = loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidDeveloper67/VoidHubLib/refs/heads/main/main.lua"))()
 
 local State = {
     FarmEnabled   = false,
